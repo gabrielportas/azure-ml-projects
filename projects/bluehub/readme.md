@@ -1,4 +1,4 @@
-# Nombre del Equipo: teamX_project
+# Nombre del Equipo: BlueHub
 
 ## Integrantes del Equipo:
 - Gabriel Portas
